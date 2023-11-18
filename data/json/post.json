@@ -1,0 +1,84 @@
+{
+    "result": [
+        {
+            "title": "Andro-Predom",
+            "url": "/article?view=andro-predom-2080",
+            "description": "A Pentesting tool aimed to expose the possible risks of exploiting an android phone through adb commands simulated through the programme which comprises a range of exploiting and exposing features. ",
+            "content": "loading...",
+            "featured": "true",
+            "image_url": "https://github.com/devsdenepal/andro-predom/raw/main/ScreenShot_20230101193530.jpeg",
+            "github_link": "https://github.com/Krimson-Squad/andro-predom",
+            "tag": "Shell"
+        },
+        {
+            "title": "AndherNagri",
+            "url": "/article?view=andhernagri-2080",
+            "description": "A vulnerable site to practice XSS and SQL injection.",
+            "content": "loading...",
+            "featured": "false",
+            "image_url": "N/A",
+            "github_link": "https://github.com/Krimson-Squad/AndherNagri",
+            "tag": "PHP"
+        },
+        {
+            "title": "xupa-rustam",
+            "url": "/article?view=xupa-rustam-2080",
+            "description": "Python based Pentesting Brute-Force tool to crack username and password of a simple traditional website ",
+            "content": "loading...",
+            "featured": "false",
+            "image_url": "N/A",
+            "github_link": "https://github.com/Krimson-Squad/xupa-rustam",
+            "tag": "Python"
+        },
+        {
+            "title": "PhantomBlitz",
+            "url": "/article?view=phantomblitz-2080",
+            "description": "PhantomBlitz: Yet another tool for reverse shell execution & payload generator by Dev. Gautam Kumar ",
+            "content": "loading...",
+            "featured": "false",
+            "image_url": "N/A",
+            "github_link": "https://github.com/Krimson-Squad/PhantomBlitz",
+            "tag": "Python"
+        },
+        {
+            "title": "unvetion",
+            "url": "/article?view=unvetion-2080",
+            "description": "MINI RECON PROJECT.",
+            "content": "loading...",
+            "featured": "false",
+            "image_url": "N/A",
+            "github_link": "https://github.com/Krimson-Squad/unvetion",
+            "tag": "Python"
+        },
+        {
+            "title": "Common Techniques & Software ",
+            "url": "/article?view=common-techniques-n-software-2080",
+            "description": "List of common T1 and SO(s) used by Threat groups.",
+            "content": "loading...",
+            "featured": "false",
+            "image_url": "N/A",
+            "github_link": "https://github.com/Krimson-Squad/common-techniques-n-software",
+            "tag": "Markdown"
+        },
+        {
+            "title": "WebSecProbe",
+            "url": "/article?view=webSecProbe-2080",
+            "description": "Web Application Vulnerability Scanning using Python and browser automation libraries allowing efficient scanning of web application.",
+            "content": "loading...",
+            "featured": "false",
+            "image_url": "N/A",
+            "github_link": "https://github.com/Krimson-Squad/WebSecProbe",
+            "tag": "Python"
+        },
+        {
+            "title":"ShadowCipher",
+            "url":"/article?view=shadow-cipher-2080",
+            "description":"A simple tool that allows you to generate wordlists based on first and last names. It provides various patterns and variations to create a wide range of potential words for password cracking, data analysis, or other purposes. ",
+            "content":"loading...",
+            "featured":"false",
+            "image_url":"N/A",
+            "github_link":"https://github.com/Krimson-Squad/ShadowCipher",
+            "tag":"Python"
+            }
+    ]
+}
