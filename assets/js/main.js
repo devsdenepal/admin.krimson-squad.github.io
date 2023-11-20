@@ -1,3 +1,7 @@
+const init_title = document.title;
+function change_title(text){
+  document.title = text
+}
 function bring_posts() {
   var xhr = new XMLHttpRequest();
   var url = "./data/json/post.json"; // Replace with your API endpoint
@@ -46,3 +50,5 @@ function bring_posts() {
   xhr.send();
 }
 
+setTimeout(change_title,1000,"loading...");
+setTimeout(change_title,3000,init_title)

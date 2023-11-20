@@ -2,7 +2,7 @@
     "result": [
         {
             "title": "Andro-Predom",
-            "url": "/article?view=andro-predom-2080",
+            "url": "/article.html?view=andro-predom-2080",
             "description": "A Pentesting tool aimed to expose the possible risks of exploiting an android phone through adb commands simulated through the programme which comprises a range of exploiting and exposing features. ",
             "content": "loading...",
             "featured": "true",
@@ -12,7 +12,7 @@
         },
         {
             "title": "AndherNagri",
-            "url": "/article?view=andhernagri-2080",
+            "url": "/article.html?view=andhernagri-2080",
             "description": "A vulnerable site to practice XSS and SQL injection.",
             "content": "loading...",
             "featured": "false",
@@ -22,7 +22,7 @@
         },
         {
             "title": "xupa-rustam",
-            "url": "/article?view=xupa-rustam-2080",
+            "url": "/article.html?view=xupa-rustam-2080",
             "description": "Python based Pentesting Brute-Force tool to crack username and password of a simple traditional website ",
             "content": "loading...",
             "featured": "false",
@@ -32,7 +32,7 @@
         },
         {
             "title": "PhantomBlitz",
-            "url": "/article?view=phantomblitz-2080",
+            "url": "/article.html?view=phantomblitz-2080",
             "description": "PhantomBlitz: Yet another tool for reverse shell execution & payload generator by Dev. Gautam Kumar ",
             "content": "loading...",
             "featured": "false",
@@ -42,7 +42,7 @@
         },
         {
             "title": "unvetion",
-            "url": "/article?view=unvetion-2080",
+            "url": "/article.html?view=unvetion-2080",
             "description": "MINI RECON PROJECT.",
             "content": "loading...",
             "featured": "false",
@@ -52,7 +52,7 @@
         },
         {
             "title": "Common Techniques & Software ",
-            "url": "/article?view=common-techniques-n-software-2080",
+            "url": "/article.html?view=common-techniques-n-software-2080",
             "description": "List of common T1 and SO(s) used by Threat groups.",
             "content": "loading...",
             "featured": "false",
@@ -62,7 +62,7 @@
         },
         {
             "title": "WebSecProbe",
-            "url": "/article?view=webSecProbe-2080",
+            "url": "/article.html?view=webSecProbe-2080",
             "description": "Web Application Vulnerability Scanning using Python and browser automation libraries allowing efficient scanning of web application.",
             "content": "loading...",
             "featured": "false",
@@ -72,7 +72,7 @@
         },
         {
             "title":"ShadowCipher",
-            "url":"/article?view=shadow-cipher-2080",
+            "url":"/article.html?view=shadow-cipher-2080",
             "description":"A simple tool that allows you to generate wordlists based on first and last names. It provides various patterns and variations to create a wide range of potential words for password cracking, data analysis, or other purposes. ",
             "content":"loading...",
             "featured":"false",
